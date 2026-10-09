@@ -25,12 +25,6 @@ This project is a cross-platform R-Type game engine designed to provide a classi
 
 ---
 
-## **Documentation**
-
-- **Link**: https://rtype-3.gitbook.io/rtype-doc/
-
----
-
 ## **Features**
 
 - Multiplayer support
